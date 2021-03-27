@@ -1,2 +1,2 @@
 # CP
-## Contains Templetes for Competitve Programming
+## Contains Templetes for Competitive Programming
